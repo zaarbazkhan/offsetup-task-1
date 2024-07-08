@@ -289,3 +289,104 @@ section{
     padding-top: 10px;
     padding-left: 30px;
 }
+.foot{
+    height: 480px;
+    width: 100%;
+    
+    display: flex;
+    justify-content: space-between;
+}
+.foot-1{
+    height: 400px;
+    width: 35%;
+    
+    margin-top: 20px;
+    margin-left: 10px;
+
+}
+.foot-1 img{
+    padding-left: 5px;
+}
+.foot-1 p{
+    padding-top: 10px;
+    padding-left: 5px;
+    
+}
+.foot-1 h2{
+     padding-top: 15px;
+     padding-left: 5px;
+}
+.foot-1 i{
+    padding-top: 10px;
+    padding-left: 5px;
+}
+.foot-2{
+    height: 400px;
+    width: 35%;
+    /* background-color: brown; */
+    margin-top: 20px;
+    margin-left: 10px;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+}
+.foot-2 hr{
+    width: 93%;
+    margin-left: 15px;
+    color: lightgray;
+}
+.foot-2 h3{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.foot-2 p{
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    
+}
+.foot-2 a{
+    text-decoration: none;
+}
+.foot-3{
+    height: 400px;
+    width: 35%;
+    /* background-color: brown; */
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.foot-3 img{
+    padding-top: 30px;
+    padding-left: 150px;
+}
+.foot-3 h1{
+    padding-top: 10px;
+    text-align: center;
+}
+.foot-3 h3{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 26px;
+}
+.input{
+    position: relative;
+}
+.input input {
+    position: absolute;
+    width: 250px;
+    height: 50px;
+    top: 20px;
+    left: 120px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    padding-left: 10px;
+    font-size: 15px;
+    
+   
+}
+.input img{
+    position: absolute;
+    left: 180px;
+    
+
+}
