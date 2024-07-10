@@ -144,9 +144,6 @@ section{
     
     
 }
- h1{
-   
-}
 .picture{
     padding: 20px 20px;
     display: flex;
@@ -234,7 +231,7 @@ section{
     display: flex;
     height: 300px;
     width: 60%;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
 }
 .heart{
@@ -246,8 +243,8 @@ section{
     padding-top: 10px;
 }
 .heart img{
-    height: 180px;
-    width: 180px;
+    height: 200px;
+    width: 200px;
 }
 .services{
     height: 280px;
